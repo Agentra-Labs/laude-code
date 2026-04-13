@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: coding-agent
+Version: 0.1.0
+Summary: Minimal powerful coding agent
+Requires-Python: >=3.10
+Requires-Dist: openai>=1.0
+Requires-Dist: gitpython>=3.1
+Requires-Dist: rich>=13.0
+Requires-Dist: prompt-toolkit>=3.0
+Provides-Extra: tree-sitter
+Requires-Dist: tree-sitter>=0.22; extra == "tree-sitter"
+Requires-Dist: tree-sitter-languages>=1.10; extra == "tree-sitter"

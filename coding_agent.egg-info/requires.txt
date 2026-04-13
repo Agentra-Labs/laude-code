@@ -1,0 +1,8 @@
+openai>=1.0
+gitpython>=3.1
+rich>=13.0
+prompt-toolkit>=3.0
+
+[tree-sitter]
+tree-sitter>=0.22
+tree-sitter-languages>=1.10

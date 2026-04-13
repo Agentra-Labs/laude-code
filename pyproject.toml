@@ -14,4 +14,4 @@ dependencies = [
 tree-sitter = ["tree-sitter>=0.22", "tree-sitter-languages>=1.10"]
 
 [project.scripts]
-ca = "agent.main:main"
+laude = "agent.main:main"

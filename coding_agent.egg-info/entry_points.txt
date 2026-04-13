@@ -1,2 +1,2 @@
 [console_scripts]
-ca = agent.main:main
+laude = agent.main:main
